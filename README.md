@@ -34,13 +34,6 @@ This project is a multi-functional MATLAB application developed for academic pur
 <img src="screenshots/statistics.png" width="500"/>
 <img src="screenshots/graph.png" width="500"/>
 
-## 👥 Team Roles
-
-- **Project Manager** – coordination & delivery
-- **Developer** – GUI and logic implementation
-- **Tester** – input validation & stability
-- **Data Analyst** – data collection and formatting
-
 ## 💡 Features
 
 - Interactive menu with 3 major data modules
