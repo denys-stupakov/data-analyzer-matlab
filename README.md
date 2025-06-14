@@ -28,12 +28,6 @@ This project is a multi-functional MATLAB application developed for academic pur
 - GUI (menu-based)
 - Data visualization
 
-## 📷 Screenshots
-
-<img src="screenshots/menu.png" width="500"/>
-<img src="screenshots/statistics.png" width="500"/>
-<img src="screenshots/graph.png" width="500"/>
-
 ## 💡 Features
 
 - Interactive menu with 3 major data modules
